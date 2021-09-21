@@ -14,11 +14,12 @@ function AddTransaction() {
             amount:parseInt(amount)
         }
         AddTranss(newTransaction);
-        setText('');setamount(0);
+        setText('');//changes don
+        setamount(0);
     }
     return (
         <>
-            <h3>Add new Transaction</h3>
+            <h3>Add new Transactionssssssssssssssss</h3>
             <form onSubmit={onsubmit}>
                 <div className="form-control">
                     <label htmlFor="text">Text</label>
