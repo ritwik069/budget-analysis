@@ -19,7 +19,7 @@ function AddTransaction() {
     }
     return (
         <>
-            <h3>Add new Transaction</h3>
+            <h3>Add new Transactio000n</h3>
             <form onSubmit={onsubmit}>
                 <div className="form-control">
                     <label htmlFor="text">Text</label>
