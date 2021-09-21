@@ -14,7 +14,7 @@ function AddTransaction() {
             amount:parseInt(amount)
         }
         AddTranss(newTransaction);
-        setText('');
+        setText('');//vgjbkjj
         setamount(0);
     }
     return (
